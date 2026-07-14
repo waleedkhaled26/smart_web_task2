@@ -4,6 +4,8 @@
 
 This task is a simple web application that collects a person's name and age, stores the data in a MySQL database, displays saved records in a table, and allows the status value to be toggled between `0` and `1` without reloading the page.
 
+website live link: https://waleedkhald26.fwh.is/
+
 ## Technologies Used
 
 - HTML5 for the page structure
